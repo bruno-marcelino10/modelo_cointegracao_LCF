@@ -1,0 +1,1 @@
+# modelo_cointegracao_LCF
